@@ -24,6 +24,8 @@ struct ContentView: View {
                             .padding(.vertical, 20)
                             .frame(width: 400, height: 300)
                         
+                        CategoryGridView()
+                        
                         FooterView()
                             .padding(.horizontal)
                     }
