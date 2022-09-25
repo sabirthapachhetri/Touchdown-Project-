@@ -24,7 +24,7 @@ struct SectionView: View {
             Spacer()
         }
         .background(colorGray.cornerRadius(12))
-        .frame(width: 85)
+        .frame(width: 88)
     }
 }
 
