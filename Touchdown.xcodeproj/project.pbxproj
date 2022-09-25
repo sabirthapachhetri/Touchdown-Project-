@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C05DE6328E076CE0052074F /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C05DE6228E076CE0052074F /* ProductItemView.swift */; };
 		5C1B6D5228DEB28400CEBFA7 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1B6D5128DEB28400CEBFA7 /* LogoView.swift */; };
 		5C1B6D5428DF2F5500CEBFA7 /* PlayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1B6D5328DF2F5400CEBFA7 /* PlayerModel.swift */; };
 		5C1B6D5628DF2F9500CEBFA7 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1B6D5528DF2F9500CEBFA7 /* CodableBundleExtension.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C05DE6228E076CE0052074F /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
 		5C1B6D5128DEB28400CEBFA7 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
 		5C1B6D5328DF2F5400CEBFA7 /* PlayerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModel.swift; sourceTree = "<group>"; };
 		5C1B6D5528DF2F9500CEBFA7 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				5C1B6D6028DF615200CEBFA7 /* CategoryGridView.swift */,
 				5C1B6D6228DF639D00CEBFA7 /* SectionView.swift */,
 				5C1B6D6428DFF9A400CEBFA7 /* TitleView.swift */,
+				5C05DE6228E076CE0052074F /* ProductItemView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				5C1B6D5228DEB28400CEBFA7 /* LogoView.swift in Sources */,
 				5C7CF29E28DDF8BF002C2EB6 /* FooterView.swift in Sources */,
 				5C1B6D5828DF35C100CEBFA7 /* FeaturedItemView.swift in Sources */,
+				5C05DE6328E076CE0052074F /* ProductItemView.swift in Sources */,
 				5C357A2C28DD5002008C312C /* TouchdownApp.swift in Sources */,
 				5C7CF29C28DDF7A5002C2EB6 /* Constant.swift in Sources */,
 				5C1B6D6128DF615200CEBFA7 /* CategoryGridView.swift in Sources */,
